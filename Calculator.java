@@ -1,7 +1,6 @@
 public class Calculator {
     //constructor
      public Calculator() {
-
      }
 
         //method add
